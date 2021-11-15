@@ -1,25 +1,29 @@
-## Your Name
+## Kimberley Morgan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Ambitious Junior Developer. Excited to combine my backgrounds in Mathematics and human languages to take on the new challenge of computer languages.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Pokemon battle simulator     | A webapp that simulates a pokemon battle. | Javascript, HTML, CSS |
+| Students directory | An interactive command line app that allows the user to create, modify, and save a list of students. | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Dentsu Public Relations** (October 2019 to October 2021)  
+_In-House Translator_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Translating public relations materials from Japanese to English
+- Assisting with global projects and client proposals
+- Created a VBA macro to automate a copy and pasting task that had previously taken the team four hours per week
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Arc Communications** (August 2016 to October 2019)  
+_Translation Project Manager_
 
-- Any experience relevent to software development
+- Managed a global team of freelance translators to provide quality translations for clients
+- Worked on new client proposals and sales
+- Created several VBA macros to automate repetitive tasks such as writing request emails to translators and creating invoices
 
 ## Skills
 
@@ -53,7 +57,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2021 to February 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +66,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Manchester (2010 to 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc. Mathematics with Japanese
+- First class honours with distinction in spoken Japanese
+- Mathematics modules encompasses all areas of mathematics, including pure, applied, and statistics.
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Japanese Language Proficiency Test N1 - certifies Japanese proficiency to the highest level
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+CrossFit, learning (human!) languages, intercultural exchange

@@ -4,10 +4,12 @@ Ambitious Junior Developer. Excited to combine my backgrounds in Mathematics and
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| Pokemon battle simulator     | A webapp that simulates a pokemon battle. | Javascript, HTML, CSS |
-| Students directory | An interactive command line app that allows the user to create, modify, and save a list of students. | Ruby              |
+| Name                         | Description       | Tech/tools        | Link |
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| Wormz | 2D game inspired by the 90s classic Worms as my final project for Makers. Collaborated in a team of six to create the game in less than 2 weeks. | JavaScript, Matter-js, p5, CSS, HTML, Node.js | [Repo](https://github.com/kim-morgan/wormz) |
+| Acebook | Team project as part of Makers bootcamp to create a clone of Facebook using Ruby on Rails. I was heavily involved in using AJAX to make it a semi single-page app | Ruby on Rails, JavaScript, AJAX, Bulma, HTML, CSS |[Repo](https://github.com/kim-morgan/acebook-on-the-rails) |
+| MakersBnB| Team project to create a clone of AirBnB using Ruby and Sinatra | [Repo](https://github.com/kim-morgan/acebook-on-the-rails) |
+| Pokemon battle simulator     | Pokemon battle simulator completed as my final solo project for the JavaScript foundations course run by Code Chrysalis in Tokyo.  | Javascript, HTML, CSS | [Codepen](https://codepen.io/kmorgan135/full/QWKKgZB) |
 
 ## Work Experience
 

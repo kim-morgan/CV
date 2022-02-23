@@ -6,9 +6,9 @@ Ambitious Junior Developer. Excited to combine my backgrounds in Mathematics and
 
 | Name                         | Description       | Tech/tools        | Link |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| Wormz | 2D game inspired by the 90s classic Worms as my final project for Makers. Collaborated in a team of six to create the game in less than 2 weeks. | JavaScript, Matter-js, p5, CSS, HTML, Node.js | [Repo](https://github.com/kim-morgan/wormz) |
-| Acebook | Team project as part of Makers bootcamp to create a clone of Facebook using Ruby on Rails. I was heavily involved in using AJAX to make it a semi single-page app | Ruby on Rails, JavaScript, AJAX, Bulma, HTML, CSS |[Repo](https://github.com/kim-morgan/acebook-on-the-rails) |
-| MakersBnB| Team project to create a clone of AirBnB using Ruby and Sinatra | [Repo](https://github.com/kim-morgan/acebook-on-the-rails) |
+| Wormz | 2D game inspired by the 90s classic Worms as my final project for Makers. Collaborated in a team of six to create the game in less than 2 weeks. | JavaScript, Matter-js, p5, CSS, HTML, Node.js, Mocha/Chai | [Repo](https://github.com/kim-morgan/wormz) |
+| Acebook | Team project as part of Makers bootcamp to create a clone of Facebook using Ruby on Rails. I was heavily involved in using AJAX to make it a semi single-page app | Ruby on Rails, JavaScript, AJAX, Bulma, HTML, CSS, Rspec |[Repo](https://github.com/kim-morgan/acebook-on-the-rails) |
+| MakersBnB| Team project to create a clone of AirBnB using Ruby and Sinatra | Ruby, Sinatra, HTML, CSS, RSpec| [Repo](https://github.com/kim-morgan/acebook-on-the-rails) |
 | Pokemon battle simulator     | Pokemon battle simulator completed as my final solo project for the JavaScript foundations course run by Code Chrysalis in Tokyo.  | Javascript, HTML, CSS | [Codepen](https://codepen.io/kmorgan135/full/QWKKgZB) |
 
 ## Work Experience

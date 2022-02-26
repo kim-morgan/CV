@@ -32,19 +32,19 @@ _Translation Project Manager_
 
 #### Problem solving
 
-My background in mathematics has equipped me with a passion for cracking tough problems. This has definitely been evident in my experience at Makers, where I have gravitated toward becoming the go-to problem solver/debugger in my teams. For example, during the Acebook challenge, another pair called me to see if I could help them solve an issue they were having with allowing users to upload profile pictures. I guided them with debugging and noticed that the problem seemed to be with the way we had configured our passwords, and successfully managed to solve the issue by changing the way we had configured our password requirement. This allowed us to have profile pictures on the website, which is a very key feature of a successful Acebook clone.
+My background in mathematics has equipped me with a passion for cracking tough problems. This has definitely been evident in my experience at Makers, where I have gravitated toward becoming the go-to problem solver in my teams. For example, during the Acebook challenge, another pair called me to see if I could help them solve an issue they were having with allowing users to upload profile pictures. I guided them with debugging and noticed that the problem seemed to be with the way we had configured our passwords, and successfully managed to solve the issue by changing the way we had configured our password requirement. This allowed us to have profile pictures on the website, which is a very key feature of a successful Acebook clone.
 
 #### Motivated self-starter
 
 Whenever I notice an issue, I am always proactive at coming up with new ways to solve it. For example, when I joined my former company, I found that they had been spending 3-4 hours per week on a repetitive task for several years. Within days of starting the job, I researched ways to automate this task and wrote a VBA macro despite having little prior knowledge. This saved the company several hours per week and eliminated the need to have an intern come in to do the task. 
 
-#### Adaptability
+#### Adaptability to unfamiliar environments
 
-I have almost all my post-graduation career in Japan so far, which has a business culture that is notoriously permeated with unwritten rules and customs that are tough for people from a Western background. To top it off, everything was done in my non-native language of Japanese. Despite these challenges, I was able to successfully thrive in the Japanese business culture, both dealing with colleagues and external clients, and build a successful career in translation.
+I have spent almost all my post-graduation career in Japan so far, which has a business culture that is notoriously permeated with unwritten rules and customs that are tough for people from a Western background. To top it off, everything was done in my non-native language of Japanese. Despite these challenges, I was able to successfully thrive in the Japanese business culture, both dealing with colleagues and external clients, and build a successful career in translation.
 
 #### Ability to perform under pressure
 
-In my former role I was often tasked with doing simultaneous and consecutive interpreting during meetings. In these situations, falling behind by even a second will majorly affect performance. Despite the intense pressure, I was able to rise to the occasion and deliver results, with my interpretation helping my company to win client bids on several occasions, with one notable example being an ongoing project that brought the company $20,000 per month.
+In my former role I was often tasked with doing simultaneous and consecutive interpreting during meetings. In these situations, falling behind by even a second will majorly affect performance. Despite the intense pressure, I was able to rise to the occasion and deliver results, with my interpretation helping my company to win client bids on several occasions, with one notable example being an ongoing project that brought the company the equivalent of $20,000 per month.
 
 ## Education
 

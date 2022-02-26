@@ -49,13 +49,11 @@ In my former role I was often tasked with doing simultaneous and consecutive int
 ## Education
 
 #### Makers Academy (November 2021 to February 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Highly selective intensive full-stack software engineering course (preceded by a part-time pre-course) at Europe's #1 coding bootcamp.
+- JavaScript, Ruby, Rails, SQL, RSpec, Jest
+- Strong focus on TDD Development
+- Github and collaboration
+- Pair programming
 
 #### University of Manchester (2010 to 2014)
 

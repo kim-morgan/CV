@@ -32,7 +32,7 @@ _Translation Project Manager_
 
 #### Problem solving
 
-My background in mathematics has equipped me with a passion for cracking tough problems. This has definitely been evident in my experience at Makers, where I have gravitated toward becoming the go-to problem solver in my teams. For example, during the Acebook challenge, another pair called me to see if I could help them solve an issue they were having with allowing users to upload profile pictures. I guided them with debugging and noticed that the problem seemed to be with the way we had configured our passwords, and managed to solve the issue by changing the way we had configured our password requirement. This allowed us to have profile pictures on the website, which is a very key feature of a successful Acebook clone.
+My background in mathematics has equipped me with a passion for cracking tough problems. This has definitely been evident in my experience at Makers, where I have gravitated toward becoming the go-to problem solver in my teams. For example, during the Acebook challenge, another pair called me to see if I could help them solve an issue they were having with allowing users to upload profile pictures. I guided them with debugging and noticed that the problem seemed to be with the way we had configured our passwords, and managed to solve the issue by changing the way we had configured our password requirement. This allowed us to have profile pictures on the website, which is a very key feature of a successful Facebook clone.
 
 #### Motivated self-starter
 

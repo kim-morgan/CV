@@ -79,9 +79,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - First class honours with distinction in spoken Japanese
 - Mathematics modules encompasses all areas of mathematics, including pure, applied, and statistics.
 
-#### Any other qualifications
+#### Qualifications/awards
 
-Japanese Language Proficiency Test N1 - certifies Japanese proficiency to the highest level
+- [First Place](https://jat.org/news/fifteenth_annual_jat_contest_winners), Annual Translation Contest, Japan Association of Translators
+- Japanese Language Proficiency Test N1 - certifies Japanese proficiency to the highest level
+
 
 ## Hobbies
 

@@ -17,6 +17,7 @@ Ambitious Junior Developer. Excited to combine my backgrounds in Mathematics and
 _In-House Translator_
 
 - Translating public relations materials from Japanese to English
+- Consecutive and simultaneous interpretation for client projects
 - Assisting with global projects and client proposals
 - Created a VBA macro to automate a copy and pasting task that had previously taken the team four hours per week
 
@@ -42,13 +43,17 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Problem solving
 
 - Experience
 - Achievements
 - Evidence (STAR)
 
-#### Another Skill
+#### Motivated self-starter
+
+#### Adaptability
+
+#### Ability to perform under pressure
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 

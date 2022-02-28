@@ -10,7 +10,7 @@ My experience at Makers has instilled me with the confidence to follow best codi
 
 🤓 Constant learning: As a lifelong nerd, there's nothing that excites me more than a job that constantly has me learning to keep up with the latest technologies.
 
-👩‍💻 Cultivating my niche: As my career progresses, I hope to cultivate expert knowledge in a certain area of software development.
+👩‍💻 Cultivating my niche: As my career progresses, I hope to cultivate expert knowledge in one area of software development while keeping an eye on the bigger picture.
 
 🤝 Teamwork and collaboration: One of the things I loved the most about Makers was the collaborative aspect and our group projects. It is truly rewarding to see the respective strengths of each team member come together to create something that works well.
 

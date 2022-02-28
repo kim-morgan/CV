@@ -2,7 +2,9 @@
 
 Junior software developer recently graduated from leading coding bootcamp [Makers](https://makers.tech/) looking for a role in the London area.
 
-After graduating with a degree in Mathematics and Japanese, I have worked in Japan in the translation field, but a thirst to return to the problem solving nature of maths led me to explore software engineering. After dipping my feet into the world of programming at an introductory course run by Tokyo-based bootcamp [Code Chrysalis](https://www.codechrysalis.io/), I was hooked, and decided to take the plunge and join Makers in October 2021. My experience at Makers has instilled me with the confidence to follow best coding practices, effectively collaborate with others, and produce full-stack web apps. Feel free to message me on [Linkedin](https://www.linkedin.com/in/kimberley-m-049a5083/) to find out more.
+After graduating with a degree in Mathematics and Japanese, I have worked in Japan in the translation field, but a thirst to return to the problem solving nature of maths led me to explore software engineering. After dipping my feet into the world of programming at an introductory course run by Tokyo-based bootcamp [Code Chrysalis](https://www.codechrysalis.io/), I was hooked, and decided to take the plunge and join Makers in October 2021.
+
+My experience at Makers has instilled me with the confidence to follow best coding practices, effectively collaborate with others, and produce full-stack web apps. Feel free to message me on [Linkedin](https://www.linkedin.com/in/kimberley-m-049a5083/) to find out more.
 
 **What excites me about starting a career in tech...**
 

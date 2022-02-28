@@ -87,6 +87,6 @@ Highly selective intensive full-stack software engineering course (preceded by a
 ## Hobbies
 🎲 Board games: everything from hours-long strategy games like Terraforming Mars to fun party games like Avalon.
 
-🏋️ Crossfit: Started on a whim, discovered that subjecting yourself to gruelling workouts several times per week is actually fun, and very fun at that.
+🏋️ Crossfit: Started on a whim, discovered that subjecting yourself to gruelling workouts several times per week is actually a lot of fun.
 
 🗣️ Learning (human!) languages: Aside from keeping up my Japanese, my current goal is to revive my (very) rusty French.

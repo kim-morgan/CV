@@ -19,14 +19,19 @@ _In-House Translator_
 - Translating public relations materials from Japanese to English
 - Consecutive and simultaneous interpretation for client projects
 - Assisting with global projects and client proposals
-- Created a VBA macro to automate a copy and pasting task that had previously taken the team four hours per week
 
 **Arc Communications** (August 2016 to October 2019)  
 _Translation Project Manager_
 
 - Managed a global team of freelance translators to provide quality translations for clients
-- Worked on new client proposals and sales
-- Created several VBA macros to automate repetitive tasks such as writing request emails to translators and creating invoices
+- Multilingual website localization for major global brands
+- New client proposals and sales
+
+**Hamada City Hall** (August 2014 to August 2016)
+_Coordinator of International Relations_
+- Interpreting and translation for international development projects 
+- Running cultural events
+- Creating English-language promotional materials for the city
 
 ## Skills
 

@@ -1,6 +1,17 @@
 ## Kimberley Morgan
 
-Ambitious Junior Developer. Excited to combine my backgrounds in Mathematics and human languages to take on the new challenge of computer languages.
+Junior software developer recently graduated from leading coding bootcamp [Makers](https://makers.tech/) looking for a role in the London area.
+
+After graduating with a degree in Mathematics and Japanese, I have worked in Japan in the translation field, but a thirst to return to the problem solving nature of maths led me to explore software engineering. After dipping my feet into the world of programming at an introductory course run by Tokyo-based bootcamp [Code Chrysalis](https://www.codechrysalis.io/), I was hooked, and decided to take the plunge and join Makers in October 2021. My experience at Makers has instilled me with the confidence to follow best coding practices, effectively collaborate with others, and produce full-stack web apps. Feel free to message me on [Linkedin](https://www.linkedin.com/in/kimberley-m-049a5083/) to find out more.
+
+**What excites me about starting a career in tech...**
+
+🤓 Constant learning: As a lifelong nerd, there's nothing that excites me more than a job that constantly has me learning to keep up with the latest technologies.
+
+👩‍💻 Cultivating my niche: As my career progresses, I hope to cultivate expert knowledge in a certain area of software development.
+
+🤝 Teamwork and collaboration: One of the things I loved the most about Makers was the collaborative aspect and our group projects. It is truly rewarding to see the respective strengths of each team member come together to create something that works well.
+
 
 ## Projects
 

@@ -27,8 +27,9 @@ _Translation Project Manager_
 - Multilingual website localization for major global brands
 - New client proposals and sales
 
-**Hamada City Hall** (August 2014 to August 2016)
+**Hamada City Hall** (August 2014 to August 2016)  
 _Coordinator of International Relations_
+
 - Interpreting and translation for international development projects 
 - Running cultural events
 - Creating English-language promotional materials for the city

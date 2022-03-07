@@ -78,7 +78,7 @@ Highly selective intensive full-stack software engineering course (preceded by a
 
 - BSc. Mathematics with Japanese
 - First class honours with distinction in spoken Japanese
-- Mathematics modules encompasses all areas of mathematics, including pure, applied, and statistics.
+- Mathematics modules encompassed all areas of mathematics, including pure, applied, and statistics.
 
 #### Qualifications/awards
 

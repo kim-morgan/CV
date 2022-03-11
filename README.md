@@ -82,8 +82,8 @@ Highly selective intensive full-stack software engineering course (preceded by a
 
 #### Qualifications/awards
 
-- [First Place](https://jat.org/news/fifteenth_annual_jat_contest_winners), Annual Translation Contest, Japan Association of Translators
-- Japanese Language Proficiency Test N1 - certifies Japanese proficiency to the highest level
+- February 2018: [First Place](https://jat.org/news/fifteenth_annual_jat_contest_winners), Annual Translation Contest, Japan Association of Translators
+- July 2015: Japanese Language Proficiency Test N1 - certifies Japanese proficiency to the highest level
 
 
 ## Hobbies
